@@ -63,4 +63,4 @@ elif not countrycheck(country):
 else: 
     print(random.choice(quotes))
 
-print("\n\n")
+input("\n\nPress ENTER to exit.")
