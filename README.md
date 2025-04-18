@@ -9,4 +9,4 @@ It’s already been used by Donald Trump himself. Probably. Definitely.
 
 Just enter a country (EN), and we’ll calculate a **beautiful** tariff rate, **even if it’s not a country**.
 
-**“I know tariffs. I invented tariffs. Probably.” – Donald J. Trump (maybe)**
+**“I know tariffs. I invented tariffs.” – Donald J. Trump (maybe)**
